@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sitioreact5/static/css/main.a617e044.chunk.css",
+    "main.js": "/sitioreact5/static/js/main.b83dad5d.chunk.js",
+    "main.js.map": "/sitioreact5/static/js/main.b83dad5d.chunk.js.map",
+    "runtime-main.js": "/sitioreact5/static/js/runtime-main.5caed31f.js",
+    "runtime-main.js.map": "/sitioreact5/static/js/runtime-main.5caed31f.js.map",
+    "static/js/2.9d5fdc26.chunk.js": "/sitioreact5/static/js/2.9d5fdc26.chunk.js",
+    "static/js/2.9d5fdc26.chunk.js.map": "/sitioreact5/static/js/2.9d5fdc26.chunk.js.map",
+    "static/js/3.f9fd3352.chunk.js": "/sitioreact5/static/js/3.f9fd3352.chunk.js",
+    "static/js/3.f9fd3352.chunk.js.map": "/sitioreact5/static/js/3.f9fd3352.chunk.js.map",
+    "index.html": "/sitioreact5/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/sitioreact5/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.9d5fdc26.chunk.js.LICENSE.txt": "/sitioreact5/static/js/2.9d5fdc26.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/sitioreact5/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5caed31f.js",
+    "static/js/2.9d5fdc26.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b83dad5d.chunk.js"
+  ]
+}
