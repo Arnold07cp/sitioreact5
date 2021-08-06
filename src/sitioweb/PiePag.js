@@ -4,7 +4,7 @@ const PiePag = () => {
     return(
         <div>   
         
-		<span>Información del sitio web</span>
+		<span>ARNOLD AÑARI RIVERA - 7CP -TURNO MAÑANA- 5 SEMESTRE</span>
     </div> 
     )
 }
