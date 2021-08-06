@@ -24,20 +24,23 @@ function App() {
 
 		</article>
 		
+	<article className="col-md-3 bg-primary">
+      <Formulario/>
+	  </article>
+		
     <aside className="col-md-3 d-flex justify-content-center bg-secondary">
 			<Aside/>
 		</aside>
 
-    <article className="col-md-3 bg-primary">
-      <Formulario/>
+    
 
 <section></section>
 			
-		</article>
+		
 
     <article className="col-md-5 justify-content-center bg-success">
       <MapaUbic/>
-      <h5>Los Arcess 202. Distrito de Cayma - Arequipa </h5> <h6>Número de contacto: 054232323</h6>
+      <h5>Los Arcess 402. Distrito de Cayma - Arequipa </h5> <h6>Número de contacto: 054542656</h6>
 		</article>
  
     <article class="col-md-7 d-flex justify-content-center bg-secondary">
